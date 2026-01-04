@@ -42,8 +42,8 @@ A comprehensive suite of settings allows users to explore and tailor the applica
 The first official release of the Retain application, optimized for mobile and tablet devices.
 
 > [!TIP]
-> **[Download Retain_1.0.ipa](releases/Retain_1.0.ipa)**
-> *Compatible with iOS and iPadOS*
+> **[Download Retain_1.0.zip](releases/Retain_1.0.zip)**
+> *Includes Retain_1.0.ipa for iOS and iPadOS*
 
 ---
 
